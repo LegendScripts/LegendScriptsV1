@@ -1,0 +1,2 @@
+# LegendScriptsV1
+LegendTeam
